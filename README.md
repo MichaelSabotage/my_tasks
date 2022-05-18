@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+It's my first practice of creating REST API.
 
-Things you may want to cover:
+The application has 2 entities: project and todo.
+Todos belong to projects.
 
-* Ruby version
+The application has 3 routes and responds to requests as JSON.
+There are have index, create and update features with appropriate HTTP verbs.
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
